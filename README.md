@@ -1,4 +1,4 @@
-# Retail Sales Performance Dashboard (Excel)
+# Retail Sales Performance Dashboard
 
 ## Overview
 This project presents an interactive Excel dashboard analyzing retail sales performance across different states, product categories, and store managers.
