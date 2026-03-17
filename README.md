@@ -6,7 +6,7 @@ This project presents an interactive Excel dashboard analyzing retail sales perf
 The dashboard provides insights into sales trends, regional performance, and category distribution using Excel's data analysis and visualization features.
 
 ## Dashboard Preview
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](images/Dashboard-Pic.png)
 
 ## Features
 - Interactive slicers for Financial Year, State, and Category
